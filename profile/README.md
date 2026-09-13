@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Community-Maintained ESLint Tools and Rules For High-Quality and Performant Markdown Linting.
+  Community-Maintained ESLint Tools and Rules for High-Quality and Performant Markdown Linting.
 </p>
 
 <div align="center">
